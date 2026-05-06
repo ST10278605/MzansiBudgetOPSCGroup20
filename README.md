@@ -1,7 +1,9 @@
 MzansiBudget App
 
-Team Member 
+Team Members
+
 ST10436847- Sipho Paul Sithole
+
 ST10278605- Siphesihle Mavuso 
 
 A personal budget management tool designed specifically for young professionals and students in South Africa.
