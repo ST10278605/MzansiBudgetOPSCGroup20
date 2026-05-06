@@ -31,14 +31,14 @@ Dashboard Display: See total spent, remaining budget, and recent expenses at the
 
 Tech Stack
 
-Kotlin
-Android SDK
-Room Database
-Material Design 
-MPAndroidChart
-Coroutines
-ViewBinding 
+Kotlin|
+Android SDK|
+Room Database|
+Material Design|
+MPAndroidChart|
+Coroutines|
+ViewBinding| 
 
 YouTube Link:
 
-GitHub Link: https://github.com/ST10278605/MzansiBudgetOPSCGroup20
+GitHub Link: [ https://github.com/ST10278605/MzansiBudgetOPSCGroup20](https://github.com/ST10278605/MzansiBudgetOPSCGroup20.git)
